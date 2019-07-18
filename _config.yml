@@ -1,15 +1,15 @@
 theme: jekyll-theme-minimal
 
 # personal info
-title: [YaoZhao]
-description: [Master student, Fudan MICCAI lab]
-logo: [profile.jpeg]
+title: YaoZhao
+description: Master student, Fudan MICCAI lab
+logo: /assets/img/profile.jpeg
 
 
-author:
-  name             : "YaoZhao"
-  avatar           : "profile.jpeg"
-  bio              : "Master student, Fudan MICCAI lab"
-  location         : "Shang Hai" 
-  employer         :
-  email            : "y15216626501@gmail.com"
+# author:
+#   name             : "YaoZhao"
+#   avatar           : "profile.jpeg"
+#   bio              : "Master student, Fudan MICCAI lab"
+#   location         : "Shang Hai" 
+#   employer         :
+#   email            : "y15216626501@gmail.com"
