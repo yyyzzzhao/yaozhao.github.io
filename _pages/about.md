@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Nathan"
+title: "Yao Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Currently, I am pursuing my M.Eng in Electronic and Communication Engineering (machine learning and deep learning) at Fudan MICCAI lab and it's my last semester in Fudan (expected). Before that, I received my B.A. in Electronic Information Engineering at Hebut University of Technology in 2017. My research interests include: medical image recognization, image generation using GAN and image segmentation.
 
-Currently, I am pursuing my Ph.D. in Information Engineering (deep learning and reinforcement learning) at the CUHK-Sensetime Joint Laboratory. I excelled in my undergraduate finance and banking studies (research in quantitative investment) and received my MPhil in Applied Mathematics (volatility modeling). I have a passion for developing quantitative investment and trading strategies. 
+Now I am looking for a Ph.D position in computer vision or medical iamge processing direction. I have great passion for my research area and expect pushing this field foward.
 
-With my understanding of client needs and multidisciplinary background that integrates finance, mathematical modeling, and artificial intelligence, I believe I can make a unique contribution to our community.
