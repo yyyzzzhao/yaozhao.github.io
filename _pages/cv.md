@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Eng. in Electronic and Communication Engineering, Fudan University, 2020(expected)
-* B.A. in Electronic Information Engineering, Hebut University of Technology, 2017
+* B.S. in Electronic Information Engineering, Hebut University of Technology, 2017
 
 Work experience
 ======
