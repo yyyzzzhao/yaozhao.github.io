@@ -12,9 +12,9 @@ title                    : "YaoZhao"
 title_separator          : "-"
 name                     : &name "YaoZhao"
 description              : &description "personal description"
-url                      : https://yyyzzzhao.github.io/yaozhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yyyzzzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yyyzzzhao.github.io/yaozhao.github.io"  #"academicpages/academicpages.github.io"
+repository               : "yyyzzzhao.github.io"  #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
