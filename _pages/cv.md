@@ -28,8 +28,8 @@ Skills
 Medical image classification and generation. 
 
 * Programming
-  * Highly Proficient in Tensorflow and PyTorch 
-  * Highly Proficient in python and Matlab 
+  * Proficient in Tensorflow and PyTorch 
+  * Proficient in python and Matlab 
   * Familiar with C++ 
   * Proficient with Windows operating systems
   * Familiar Unbuntu operating systems
