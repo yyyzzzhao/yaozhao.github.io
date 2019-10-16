@@ -45,7 +45,7 @@ Publications
   
 Awards
 ======
--2018-2019 Huawei Scholarship
--2013-2014 National Encouragement Scholarship
--Fifth National Undergraduate BME Innovation Design Competition 1st prize
--Some School-level Scholarships
+* 2018-2019 Huawei Scholarship
+* 2013-2014 National Encouragement Scholarship
+* Fifth National Undergraduate BME Innovation Design Competition 1st prize
+* Some School-level Scholarships
